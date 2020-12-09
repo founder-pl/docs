@@ -72,4 +72,4 @@ kolejne będą odpowiednio kalkulowan na podstawie potrzeb.
 W przypadku wykorzystania naszega zaplecza przez dłuzej niż 2 godziny miesięcznie będziemy rozliczać proporcjonalnie za każdą godzinę 40PLN
 
 
-* oferta dostepna dla subskrybentów
+'* oferta dostepna dla subskrybentów
