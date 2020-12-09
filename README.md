@@ -15,7 +15,6 @@ Dla osób z pomysłem na projekt i szukających ludzi do pomocy,
 + firmy potrzebujące codziennego wsparcia technicznego, outsourcingu IT
 
 
-
 # Partnerzy w biznesie
 
 Nasz system skupia kilka grup przedsiębiorców:
@@ -29,6 +28,17 @@ Nasz system skupia kilka grup przedsiębiorców:
 
 Oferujemy fachowców chętnych do pracy, ale nie tak jak to robią platformy typu dla freelancerów
 tylko w sposob bardziej specjalistyczny, gdzie każde zapytanie klientów otrzyma wycenę w oparciu o ustandaryzowane moduły lub paczki usług,
+
+
+## Oferta 
+
+Platforma Founder zrzesza ekspertów z różnych krajów na świecie, oferujemy usługi:
++ tłumaczy
++ programistów
++ handlowców
++ blogerów
++ videoblogerów
+
 
 ## Przykład
 jak ktoś chce stronę www, to w skład wchodzi np. wykonanie grafiki na stronę, logo, pisanie artykułów, tworzenie kont społecznościowych, ich aktualizacja, tłumaczenia na inne języki, itd.
