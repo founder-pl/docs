@@ -1,8 +1,4 @@
-
-
-
-
-1. Platforma domenowo-hostingowo-usługowa:
+# Platforma domenowo-hostingowo-usługowa:
 
 a. dla klientów końcowych: zakup domen, ewentualnie hostingu/vps/cloud, jest opcja wykorzystanie usług zewnętrznych
 
@@ -14,7 +10,7 @@ c. provider własnych usług i realizowanych przez własnych pracowników
 
  
 
-2. Platforma, którą obecnie testuję i będzie oficjalnie dostępna 1.1.2021
+# Platforma, którą obecnie testuję i będzie oficjalnie dostępna 1.1.2021
 
 Jeśli chodzi o domeny, to nie mamy zamiaru być partnerem NASK, obecnie mamy API do hexonet, to współpraca w ramach zarządzania i transferu domen.
 
@@ -22,7 +18,7 @@ To nie jest konkurencja do Premium, czy Aftermarket, które zajmują się giełd
 
  
 
-3. Jaki jest cel naszej platformy?
+# Jaki jest cel naszej platformy?
 
 Wsparcie usługobiorców i usługodawców w obszarze technologicznym, czyli chcemy sprzedawać usługi supportu, helpdesk profesjonalistów: programistów, administratorów, grafików, marketingowców.
 
@@ -30,7 +26,8 @@ Rozliczanie za godziny, zakup w postaci subskrypcji.
 
  
 
-4. Jakie są korzyści z używania naszej platformy?
+# Dlaczego Founder?
+## korzyści z używania naszej platformy
 
 Wykonanie usługi przez freelancerów, zatrudnionych przez naszą firmę, dzięki temu mamy wpływ na realizację a nie tylko  na transakcje.
 
@@ -40,7 +37,8 @@ CORE biznesu w tym otoczeniu technologicznym to sprzedaż czasu naszej obsługi 
 
  
 
-5. Jakie są obecnie możliwości na rynku?
+# Konkurencja,
+## jakie są obecnie możliwości na rynku?
 
 Gdy ktoś szuka freelancera do wykonania zlecenia, to ma kilka platform do wyboru.
 
@@ -52,7 +50,7 @@ dostępem do usług, niezależnie od providera i będzie dostarczała rąk do pr
 
  
 
-6. plan na 2021
+# Plan na 2021
 
 W tej chwili jest dostępny testowy serwis w domenie .pl , jest dostępna głównie w języku angielskim i tłumaczenia są w trakcie, tak aby każdy Polski użytkownik internetu miał dostęp do naszego supportu.
 
