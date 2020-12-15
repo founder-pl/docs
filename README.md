@@ -4,7 +4,7 @@
 Founder to ekosystem wsparcia dla przedsiębiorstw bez zaplecza technicznego poszukujących specjalistów na konktrakty krótkoterminowe, z czasem realizacji rzędu godzin.
 Krótkoterminowy profesjonalny outsourcing IT.
 
-     Founder, łączą nas wartości a różnią kompetencje.
+     Na platformie Founder łączą nas wartości a różnią kompetencje.
 
 Rozwiązanie Founder.pl to platforma wsparcia dla dynamicznie rozwijanych projektów.
 + oferujemy wyceny w ciągu minut na bazie dostarczonych informacji*
